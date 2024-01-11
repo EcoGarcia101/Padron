@@ -10,7 +10,6 @@ include("includes/config.php");
     <title>DIF | REGISTRO DE ADMINISTRADORES</title>
 </head>
 <body>
-    <h1>La ex de flore</h1>
 <?php
 
 include("includes/header.php");
